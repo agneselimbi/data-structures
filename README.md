@@ -1,2 +1,3 @@
 # data-structures
-Stores implementation of data structures
+Stores some solutions of Leetcode problems
+
